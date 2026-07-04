@@ -1,6 +1,6 @@
 {
   "run_date": "2026-07-05",
-  "run_date_display": "05 Jul 2026, 01:38 AM GST",
+  "run_date_display": "05 Jul 2026, 01:55 AM GST",
   "status": "warning",
   "fatal_error": null,
   "warnings": [
@@ -1262,7 +1262,7 @@
       },
       {
         "Sub_Sector": "Furniture, Home Furnishing",
-        "Sector": "Materials",
+        "Sector": "Consumer Discretionary",
         "Constituents": 5,
         "rs_ratio": 0.4527,
         "mom_4w_pct": 10.64,
@@ -1370,7 +1370,7 @@
       },
       {
         "Sub_Sector": "Aerospace & Defense",
-        "Sector": "Information Technology",
+        "Sector": "Industrials",
         "Constituents": 21,
         "rs_ratio": 2.6654,
         "mom_4w_pct": 11.84,
@@ -1394,7 +1394,7 @@
       },
       {
         "Sub_Sector": "Trading & Distributors",
-        "Sector": "Information Technology",
+        "Sector": "Industrials",
         "Constituents": 5,
         "rs_ratio": 0.5849,
         "mom_4w_pct": 10.46,
@@ -1502,7 +1502,7 @@
       },
       {
         "Sub_Sector": "Civil Construction",
-        "Sector": NaN,
+        "Sector": "Others",
         "Constituents": 44,
         "rs_ratio": 0.5151,
         "mom_4w_pct": 3.73,
@@ -1586,7 +1586,7 @@
       },
       {
         "Sub_Sector": "Other Industrial Products",
-        "Sector": "Information Technology",
+        "Sector": "Industrials",
         "Constituents": 11,
         "rs_ratio": 2.5787,
         "mom_4w_pct": 0.55,
@@ -1646,7 +1646,7 @@
       },
       {
         "Sub_Sector": "Breweries & Distilleries",
-        "Sector": "Materials",
+        "Sector": "Consumer Staples",
         "Constituents": 13,
         "rs_ratio": 1.8622,
         "mom_4w_pct": -0.51,
@@ -1682,7 +1682,7 @@
       },
       {
         "Sub_Sector": "Holding Company",
-        "Sector": "Health Care",
+        "Sector": "Financials",
         "Constituents": 9,
         "rs_ratio": 0.9589,
         "mom_4w_pct": -1.0,
@@ -1706,7 +1706,7 @@
       },
       {
         "Sub_Sector": "Other Electrical Equipment",
-        "Sector": "Information Technology",
+        "Sector": "Industrials",
         "Constituents": 17,
         "rs_ratio": 1.3813,
         "mom_4w_pct": -1.49,
@@ -1742,7 +1742,7 @@
       },
       {
         "Sub_Sector": "Internet & Catalogue Retail",
-        "Sector": "Real Estate",
+        "Sector": "Communication Services",
         "Constituents": 6,
         "rs_ratio": 1.0353,
         "mom_4w_pct": -1.94,
@@ -1766,7 +1766,7 @@
       },
       {
         "Sub_Sector": "Passenger Cars & Utility Vehic",
-        "Sector": "Consumer Discretionary",
+        "Sector": "Industrials",
         "Constituents": 6,
         "rs_ratio": 5.4557,
         "mom_4w_pct": -2.13,
@@ -1898,7 +1898,7 @@
       },
       {
         "Sub_Sector": "Plastic Products - Industrial",
-        "Sector": "Industrials",
+        "Sector": "Materials",
         "Constituents": 11,
         "rs_ratio": 0.5927,
         "mom_4w_pct": -3.5,
@@ -1934,7 +1934,7 @@
       },
       {
         "Sub_Sector": "Road Assets-Toll, Annuity, Hyb",
-        "Sector": NaN,
+        "Sector": "Others",
         "Constituents": 5,
         "rs_ratio": 0.2719,
         "mom_4w_pct": -4.26,
@@ -1982,7 +1982,7 @@
       },
       {
         "Sub_Sector": "ETF",
-        "Sector": NaN,
+        "Sector": "Others",
         "Constituents": 48,
         "rs_ratio": 0.2861,
         "mom_4w_pct": -5.7,
@@ -1994,7 +1994,7 @@
       },
       {
         "Sub_Sector": "Business Process Outsourcing",
-        "Sector": "Industrials",
+        "Sector": "Information Technology",
         "Constituents": 6,
         "rs_ratio": 1.3105,
         "mom_4w_pct": -5.82,
@@ -2017,10 +2017,10 @@
         "Top5": false
       },
       {
-        "Sub_Sector": "Diversified",
-        "Sector": "Financials",
-        "Constituents": 7,
-        "rs_ratio": 2.182,
+        "Sub_Sector": "Other Agricultural Products",
+        "Sector": "Consumer Staples",
+        "Constituents": 10,
+        "rs_ratio": 0.3787,
         "mom_4w_pct": -6.28,
         "is_13w_high": false,
         "is_26w_high": false,
@@ -2029,10 +2029,10 @@
         "Top5": false
       },
       {
-        "Sub_Sector": "Other Agricultural Products",
-        "Sector": "Consumer Staples",
-        "Constituents": 10,
-        "rs_ratio": 0.3787,
+        "Sub_Sector": "Diversified",
+        "Sector": "Industrials",
+        "Constituents": 7,
+        "rs_ratio": 2.182,
         "mom_4w_pct": -6.28,
         "is_13w_high": false,
         "is_26w_high": false,
@@ -2102,7 +2102,7 @@
       },
       {
         "Sub_Sector": "Electrodes & Refractories",
-        "Sector": "Materials",
+        "Sector": "Industrials",
         "Constituents": 6,
         "rs_ratio": 1.0603,
         "mom_4w_pct": -7.58,
@@ -2126,7 +2126,7 @@
       },
       {
         "Sub_Sector": "Castings & Forgings",
-        "Sector": "Materials",
+        "Sector": "Industrials",
         "Constituents": 6,
         "rs_ratio": 1.0911,
         "mom_4w_pct": -8.29,
@@ -2150,7 +2150,7 @@
       },
       {
         "Sub_Sector": "IT Enabled Services",
-        "Sector": "Information Technology",
+        "Sector": "Industrials",
         "Constituents": 25,
         "rs_ratio": 1.2738,
         "mom_4w_pct": -8.79,
@@ -2162,7 +2162,7 @@
       },
       {
         "Sub_Sector": "Telecom - Infrastructure",
-        "Sector": "Industrials",
+        "Sector": "Communication Services",
         "Constituents": 6,
         "rs_ratio": 0.6357,
         "mom_4w_pct": -9.01,
@@ -2234,7 +2234,7 @@
       },
       {
         "Sub_Sector": "Power Generation",
-        "Sector": "Industrials",
+        "Sector": "Utilities",
         "Constituents": 18,
         "rs_ratio": 0.3112,
         "mom_4w_pct": -10.6,
