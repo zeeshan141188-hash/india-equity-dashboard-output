@@ -1,6 +1,6 @@
 {
   "run_date": "2026-07-05",
-  "run_date_display": "05 Jul 2026, 01:55 AM GST",
+  "run_date_display": "05 Jul 2026, 02:07 AM GST",
   "status": "warning",
   "fatal_error": null,
   "warnings": [
@@ -1418,7 +1418,7 @@
       },
       {
         "Sub_Sector": "Consumer Electronics",
-        "Sector": "Industrials",
+        "Sector": "Consumer Discretionary",
         "Constituents": 5,
         "rs_ratio": 1.1964,
         "mom_4w_pct": 8.83,
@@ -1502,7 +1502,7 @@
       },
       {
         "Sub_Sector": "Civil Construction",
-        "Sector": "Others",
+        "Sector": "Industrials",
         "Constituents": 44,
         "rs_ratio": 0.5151,
         "mom_4w_pct": 3.73,
@@ -1766,7 +1766,7 @@
       },
       {
         "Sub_Sector": "Passenger Cars & Utility Vehic",
-        "Sector": "Industrials",
+        "Sector": "Consumer Discretionary",
         "Constituents": 6,
         "rs_ratio": 5.4557,
         "mom_4w_pct": -2.13,
@@ -1898,7 +1898,7 @@
       },
       {
         "Sub_Sector": "Plastic Products - Industrial",
-        "Sector": "Materials",
+        "Sector": "Industrials",
         "Constituents": 11,
         "rs_ratio": 0.5927,
         "mom_4w_pct": -3.5,
@@ -1994,7 +1994,7 @@
       },
       {
         "Sub_Sector": "Business Process Outsourcing",
-        "Sector": "Information Technology",
+        "Sector": "Industrials",
         "Constituents": 6,
         "rs_ratio": 1.3105,
         "mom_4w_pct": -5.82,
@@ -2017,10 +2017,10 @@
         "Top5": false
       },
       {
-        "Sub_Sector": "Other Agricultural Products",
-        "Sector": "Consumer Staples",
-        "Constituents": 10,
-        "rs_ratio": 0.3787,
+        "Sub_Sector": "Diversified",
+        "Sector": "Industrials",
+        "Constituents": 7,
+        "rs_ratio": 2.182,
         "mom_4w_pct": -6.28,
         "is_13w_high": false,
         "is_26w_high": false,
@@ -2029,10 +2029,10 @@
         "Top5": false
       },
       {
-        "Sub_Sector": "Diversified",
-        "Sector": "Industrials",
-        "Constituents": 7,
-        "rs_ratio": 2.182,
+        "Sub_Sector": "Other Agricultural Products",
+        "Sector": "Consumer Staples",
+        "Constituents": 10,
+        "rs_ratio": 0.3787,
         "mom_4w_pct": -6.28,
         "is_13w_high": false,
         "is_26w_high": false,
@@ -2150,7 +2150,7 @@
       },
       {
         "Sub_Sector": "IT Enabled Services",
-        "Sector": "Industrials",
+        "Sector": "Information Technology",
         "Constituents": 25,
         "rs_ratio": 1.2738,
         "mom_4w_pct": -8.79,
