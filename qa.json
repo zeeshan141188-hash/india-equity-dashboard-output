@@ -1,0 +1,38 @@
+{
+  "run_date": "2026-07-06",
+  "run_date_display": "06 Jul 2026, 11:59 AM GST",
+  "qa": [
+    {
+      "question": "What are today's top ideas?",
+      "answer": "Today's top ideas (9 total):\n- Sansera Engineering Ltd (SANSERA.NS) — Explosive, PM Score 0.847, Sector: Consumer Discretionary\n- Aditya Birla Money Ltd (ABSLAMC.NS) — Gradual, PM Score 0.785, Sector: Financials\n- Neogen Chemicals Ltd (NEOGEN.NS) — Explosive, PM Score 0.684, Sector: Materials\n- Bharat Forge Ltd (BHARATFORG.NS) — Explosive, PM Score 0.635, Sector: Consumer Discretionary\n- Kirloskar Oil Engines Ltd (KIRLOSENG.NS) — Explosive, PM Score 0.606, Sector: Industrials\n- Aether Industries Ltd (AETHER.NS) — Explosive, PM Score 0.554, Sector: Health Care\n- Ge Vernova T&D India Ltd (GVT&D.NS) — Explosive, PM Score 0.438, Sector: Industrials\n- Belrise Industries Ltd (BELRISE.NS) — Explosive, PM Score 0.423, Sector: Consumer Discretionary\n- Td Power Systems Ltd (TDPOWERSYS.NS) — Explosive, PM Score 0.276, Sector: Industrials"
+    },
+    {
+      "question": "Why did the top stock score highest?",
+      "answer": "Sansera Engineering Ltd (SANSERA.NS) leads today's screen with a PM Score of 0.847. This reflects a TrendQuality of 0.841, Absorption of 0.632, VolScore of 0.463, and FollowThrough of 0.884, built over a 147-day base. Classified as: Explosive."
+    },
+    {
+      "question": "Which sub-sectors show the highest conviction?",
+      "answer": "Top 5 sub-sectors by conviction today:\n- Compressors, Pumps & Diesel Engine (Industrials) — conviction 81.2, breadth 87.5%, top stock ELGIEQUIP.NS\n- Other Electrical Equipment (Industrials) — conviction 78.4, breadth 88.9%, top stock DIACABS.NS\n- Heavy Electrical Equipment (Industrials) — conviction 77.9, breadth 81.0%, top stock SKIPPER.NS\n- Aerospace & Defense (Materials) — conviction 77.1, breadth 89.5%, top stock MIDHANI.NS\n- Stockbroking & Allied (Financials) — conviction 76.5, breadth 57.1%, top stock ABSLAMC.NS"
+    },
+    {
+      "question": "Which stocks are showing displacement this week?",
+      "answer": "Displacement Scanner, week of 2026-07-10 (top 5 of each shown):\nTop upward displacement:\n  - RAMCOSYS.NS (Software Products) — Score 0.909, Displacement Z 3.09\n  - DELHIVERY.NS (Logistics Solution Provider) — Score 0.768, Displacement Z 1.68\n  - IMPAL.NS (Auto Dealer) — Score 0.733, Displacement Z 2.69, broke ceiling_52w\n  - TEXINFRA.NS (Diversified Commercial Service) — Score 0.719, Displacement Z 1.85\n  - VENUSPIPES.NS (Iron & Steel Products) — Score 0.709, Displacement Z 1.24\nTop downward displacement:\n  - JAYTEX.BO (Textiles) — Score 0.8, Displacement Z -4.17, broke floor_52w\n  - KPITTECH.NS (Computers - Software & Consult) — Score 0.798, Displacement Z -2.48\n  - NATIONSTD.BO (Real Estate Development) — Score 0.79, Displacement Z -1.9\n  - CPML.BO (Movies & Entertainment) — Score 0.705, Displacement Z -3.05\n  - BSOFT.NS (Computers - Software & Consult) — Score 0.603, Displacement Z -1.66"
+    },
+    {
+      "question": "Which sector shows the strongest displacement conviction?",
+      "answer": "Strongest displacement conviction: Health Care (Conviction 69.44, Bull Exposure 11.3%, Top Horse KMCSHIL.BO).\nOther sectors, ranked by conviction:\n- Consumer Discretionary — Conviction 69.34\n- Industrials — Conviction 68.54\n- Materials — Conviction 64.16\n- Financials — Conviction 60.72"
+    },
+    {
+      "question": "What are today's strongest sub-sector themes?",
+      "answer": "Top 5 sub-sector themes by conviction today:\n- Real Estate Development — Conviction 75.2, driven by Momentum (across 3 stocks, lead stock ELPROINTL.BO)\n- Private Sector Bank — Conviction 73.34, driven by Expansion (across 16 stocks, lead stock TMB.NS)\n- Cables - Electricals — Conviction 72.8, driven by Momentum (across 5 stocks, lead stock UNIVCABLES.NS)\n- Other Electrical Equipment — Conviction 72.42, driven by Persistence (across 11 stocks, lead stock MTARTECH.NS)\n- Stockbroking & Allied — Conviction 71.96, driven by Momentum (across 7 stocks, lead stock ANGELONE.NS)"
+    },
+    {
+      "question": "Which sub-sectors show the strongest relative strength?",
+      "answer": "Top 5 sub-sectors by relative strength today:\n- Telecom - Infrastructure (Communication Services) — RS Ratio 1.4481, 4wk Momentum 18.15%, 13w/26w/52w high\n- Microfinance Institutions (Financials) — RS Ratio 1.2673, 4wk Momentum 16.9%, 13w/26w/52w high\n- Computers Hardware & Equipment (Information Technology) — RS Ratio 1.178, 4wk Momentum 13.42%, 13w/26w/52w high\n- Software Products (Information Technology) — RS Ratio 0.9023, 4wk Momentum 10.47%, 13w high\n- Holding Company (Financials) — RS Ratio 0.9871, 4wk Momentum 8.52%, 13w high"
+    },
+    {
+      "question": "Which stocks appear in both Top Ideas and Displacement Up?",
+      "answer": "No stocks currently appear in both Top Ideas and Displacement Up."
+    }
+  ]
+}
