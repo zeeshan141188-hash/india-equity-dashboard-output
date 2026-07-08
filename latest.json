@@ -1,14 +1,15 @@
 {
   "run_date": "2026-07-08",
-  "run_date_display": "08 Jul 2026, 10:23 AM GST",
+  "run_date_display": "08 Jul 2026, 03:00 PM GST",
   "status": "warning",
   "fatal_error": null,
   "warnings": [
     "1 tickers had no data after two passes (sample: ['VISHAL.NS']).",
-    "32 tickers had no data after two passes (sample: ['SANGHIIND.NS', 'SHREMINVIT.NS', 'MBECL.NS', 'VIVIANA-SM.NS', 'KODYTECH.NS', 'MIRCELECTR.NS', 'AIMTRON.NS', 'NDRINVIT-BL.NS', 'KARNIKA.NS', 'GSPL.NS']).",
     "Displacement scanner: 2 tickers dropped for <40 weeks history.",
     "Theme conviction: 55 tickers dropped for <56 weeks history.",
-    "Sector RRG: 127 sub-sectors excluded for <5 qualifying constituents."
+    "Sector RRG: 127 sub-sectors excluded for <5 qualifying constituents.",
+    "Grind-to-Breakout: 851 tickers dropped for <280d history.",
+    "Grind-to-Breakout: no tickers survived history filter."
   ],
   "universe_size": 851,
   "explosive_count": 20,
