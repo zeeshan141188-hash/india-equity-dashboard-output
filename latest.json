@@ -1,6 +1,6 @@
 {
   "run_date": "2026-07-09",
-  "run_date_display": "09 Jul 2026, 05:39 PM GST",
+  "run_date_display": "09 Jul 2026, 06:05 PM GST",
   "status": "warning",
   "fatal_error": null,
   "warnings": [
@@ -1598,6 +1598,11 @@
         "is_52w_high": true,
         "Combined_Score": 98.1,
         "Top5": true,
+        "Disp_Density_Z": 1.17,
+        "Disp_Quality_Pct": 80.0,
+        "Disp_Thrust_Pct": 16.7,
+        "Disp_Conviction": 65.03,
+        "Disp_Top_Horse": "SUYOG.BO",
         "Top_Stocks": [
           {
             "Ticker": "HFCL.NS",
@@ -1662,6 +1667,11 @@
         "is_52w_high": true,
         "Combined_Score": 97.6,
         "Top5": true,
+        "Disp_Density_Z": 2.83,
+        "Disp_Quality_Pct": 82.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 71.11,
+        "Disp_Top_Horse": "CREDITACC.NS",
         "Top_Stocks": [
           {
             "Ticker": "CREDITACC.NS",
@@ -1726,6 +1736,11 @@
         "is_52w_high": true,
         "Combined_Score": 97.0,
         "Top5": true,
+        "Disp_Density_Z": 1.02,
+        "Disp_Quality_Pct": 80.0,
+        "Disp_Thrust_Pct": 42.9,
+        "Disp_Conviction": 72.89,
+        "Disp_Top_Horse": "DLINKINDIA.NS",
         "Top_Stocks": [
           {
             "Ticker": "IVALUE.NS",
@@ -1790,6 +1805,11 @@
         "is_52w_high": true,
         "Combined_Score": 93.2,
         "Top5": true,
+        "Disp_Density_Z": 1.89,
+        "Disp_Quality_Pct": 68.9,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 65.43,
+        "Disp_Top_Horse": "HONASA.NS",
         "Top_Stocks": [
           {
             "Ticker": "CUPID.NS",
@@ -1854,6 +1874,11 @@
         "is_52w_high": false,
         "Combined_Score": 91.8,
         "Top5": true,
+        "Disp_Density_Z": 1.16,
+        "Disp_Quality_Pct": 74.3,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 60.03,
+        "Disp_Top_Horse": "UFBL.NS",
         "Top_Stocks": [
           {
             "Ticker": "UFBL.NS",
@@ -1918,6 +1943,11 @@
         "is_52w_high": false,
         "Combined_Score": 90.2,
         "Top5": false,
+        "Disp_Density_Z": 2.28,
+        "Disp_Quality_Pct": 74.3,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 68.3,
+        "Disp_Top_Horse": "RAMCOSYS.NS",
         "Top_Stocks": [
           {
             "Ticker": "RAMCOSYS.NS",
@@ -1982,6 +2012,11 @@
         "is_52w_high": false,
         "Combined_Score": 89.7,
         "Top5": false,
+        "Disp_Density_Z": 1.75,
+        "Disp_Quality_Pct": 78.3,
+        "Disp_Thrust_Pct": 16.7,
+        "Disp_Conviction": 69.19,
+        "Disp_Top_Horse": "SFL.NS",
         "Top_Stocks": [
           {
             "Ticker": "EUROPRATIK.NS",
@@ -2046,6 +2081,11 @@
         "is_52w_high": false,
         "Combined_Score": 89.1,
         "Top5": false,
+        "Disp_Density_Z": 1.51,
+        "Disp_Quality_Pct": 73.3,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 62.32,
+        "Disp_Top_Horse": "RANEHOLDIN.NS",
         "Top_Stocks": [
           {
             "Ticker": "MAXGROW.BO",
@@ -2110,6 +2150,11 @@
         "is_52w_high": false,
         "Combined_Score": 88.6,
         "Top5": false,
+        "Disp_Density_Z": 2.23,
+        "Disp_Quality_Pct": 74.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 66.09,
+        "Disp_Top_Horse": "STYL.NS",
         "Top_Stocks": [
           {
             "Ticker": "STYL.NS",
@@ -2174,6 +2219,11 @@
         "is_52w_high": false,
         "Combined_Score": 86.4,
         "Top5": false,
+        "Disp_Density_Z": 0.43,
+        "Disp_Quality_Pct": 74.3,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 48.47,
+        "Disp_Top_Horse": "LALPATHLAB.NS",
         "Top_Stocks": [
           {
             "Ticker": "HEALTHX.NS",
@@ -2238,6 +2288,11 @@
         "is_52w_high": true,
         "Combined_Score": 86.1,
         "Top5": false,
+        "Disp_Density_Z": 3.45,
+        "Disp_Quality_Pct": 75.9,
+        "Disp_Thrust_Pct": 1.5,
+        "Disp_Conviction": 72.69,
+        "Disp_Top_Horse": "TALBROAUTO.NS",
         "Top_Stocks": [
           {
             "Ticker": "RML.BO",
@@ -2302,6 +2357,11 @@
         "is_52w_high": false,
         "Combined_Score": 85.1,
         "Top5": false,
+        "Disp_Density_Z": 1.52,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 14.3,
+        "Disp_Conviction": 66.69,
+        "Disp_Top_Horse": "NYKAA.NS",
         "Top_Stocks": [
           {
             "Ticker": "ETERNAL.NS",
@@ -2366,6 +2426,11 @@
         "is_52w_high": false,
         "Combined_Score": 84.2,
         "Top5": false,
+        "Disp_Density_Z": 2.66,
+        "Disp_Quality_Pct": 71.2,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 70.04,
+        "Disp_Top_Horse": "SPECTRUM.BO",
         "Top_Stocks": [
           {
             "Ticker": "GALAPREC.BO",
@@ -2430,6 +2495,11 @@
         "is_52w_high": false,
         "Combined_Score": 84.2,
         "Top5": false,
+        "Disp_Density_Z": 2.6,
+        "Disp_Quality_Pct": 77.9,
+        "Disp_Thrust_Pct": 3.6,
+        "Disp_Conviction": 72.82,
+        "Disp_Top_Horse": "CGCL.NS",
         "Top_Stocks": [
           {
             "Ticker": "PAISALO.NS",
@@ -2494,6 +2564,11 @@
         "is_52w_high": true,
         "Combined_Score": 84.0,
         "Top5": false,
+        "Disp_Density_Z": 6.64,
+        "Disp_Quality_Pct": 77.9,
+        "Disp_Thrust_Pct": 4.6,
+        "Disp_Conviction": 74.29,
+        "Disp_Top_Horse": "IOLCP.NS",
         "Top_Stocks": [
           {
             "Ticker": "INDSWFTLAB.NS",
@@ -2558,6 +2633,11 @@
         "is_52w_high": false,
         "Combined_Score": 82.6,
         "Top5": false,
+        "Disp_Density_Z": 2.89,
+        "Disp_Quality_Pct": 75.0,
+        "Disp_Thrust_Pct": 9.1,
+        "Disp_Conviction": 73.52,
+        "Disp_Top_Horse": "SKYGOLD.NS",
         "Top_Stocks": [
           {
             "Ticker": "THANGAMAYL.NS",
@@ -2622,6 +2702,11 @@
         "is_52w_high": false,
         "Combined_Score": 81.0,
         "Top5": false,
+        "Disp_Density_Z": 1.97,
+        "Disp_Quality_Pct": 75.4,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 67.83,
+        "Disp_Top_Horse": "POLYPLEX.NS",
         "Top_Stocks": [
           {
             "Ticker": "ARROWGREEN.NS",
@@ -2686,6 +2771,11 @@
         "is_52w_high": false,
         "Combined_Score": 76.1,
         "Top5": false,
+        "Disp_Density_Z": 2.23,
+        "Disp_Quality_Pct": 74.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 66.19,
+        "Disp_Top_Horse": "ZSARACOM.BO",
         "Top_Stocks": [
           {
             "Ticker": "ZSARACOM.BO",
@@ -2750,6 +2840,11 @@
         "is_52w_high": false,
         "Combined_Score": 75.0,
         "Top5": false,
+        "Disp_Density_Z": 1.44,
+        "Disp_Quality_Pct": 75.3,
+        "Disp_Thrust_Pct": 11.8,
+        "Disp_Conviction": 68.2,
+        "Disp_Top_Horse": "SHAREINDIA.NS",
         "Top_Stocks": [
           {
             "Ticker": "SHAREINDIA.NS",
@@ -2814,6 +2909,11 @@
         "is_52w_high": false,
         "Combined_Score": 70.1,
         "Top5": false,
+        "Disp_Density_Z": 1.15,
+        "Disp_Quality_Pct": 74.3,
+        "Disp_Thrust_Pct": 14.3,
+        "Disp_Conviction": 64.94,
+        "Disp_Top_Horse": "RAIN.NS",
         "Top_Stocks": [
           {
             "Ticker": "RAIN.NS",
@@ -2878,6 +2978,11 @@
         "is_52w_high": false,
         "Combined_Score": 69.8,
         "Top5": false,
+        "Disp_Density_Z": 1.71,
+        "Disp_Quality_Pct": 76.0,
+        "Disp_Thrust_Pct": 20.0,
+        "Disp_Conviction": 67.04,
+        "Disp_Top_Horse": "WABAG.NS",
         "Top_Stocks": [
           {
             "Ticker": "WABAG.NS",
@@ -2942,6 +3047,11 @@
         "is_52w_high": false,
         "Combined_Score": 67.1,
         "Top5": false,
+        "Disp_Density_Z": 1.65,
+        "Disp_Quality_Pct": 72.3,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 61.36,
+        "Disp_Top_Horse": "SPAL.NS",
         "Top_Stocks": [
           {
             "Ticker": "SPAL.NS",
@@ -3006,6 +3116,11 @@
         "is_52w_high": false,
         "Combined_Score": 64.9,
         "Top5": false,
+        "Disp_Density_Z": 1.93,
+        "Disp_Quality_Pct": 73.3,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 65.86,
+        "Disp_Top_Horse": "CEATLTD.NS",
         "Top_Stocks": [
           {
             "Ticker": "CEATLTD.NS",
@@ -3070,6 +3185,11 @@
         "is_52w_high": false,
         "Combined_Score": 62.5,
         "Top5": false,
+        "Disp_Density_Z": 1.91,
+        "Disp_Quality_Pct": 71.1,
+        "Disp_Thrust_Pct": 5.6,
+        "Disp_Conviction": 68.3,
+        "Disp_Top_Horse": "TEXINFRA.NS",
         "Top_Stocks": [
           {
             "Ticker": "IBULLSLTD.BO",
@@ -3134,6 +3254,11 @@
         "is_52w_high": false,
         "Combined_Score": 61.1,
         "Top5": false,
+        "Disp_Density_Z": 1.98,
+        "Disp_Quality_Pct": 78.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 69.48,
+        "Disp_Top_Horse": "AVADHSUGAR.NS",
         "Top_Stocks": [
           {
             "Ticker": "TRIVENI.BO",
@@ -3198,6 +3323,11 @@
         "is_52w_high": false,
         "Combined_Score": 60.6,
         "Top5": false,
+        "Disp_Density_Z": 0.4,
+        "Disp_Quality_Pct": 76.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 52.12,
+        "Disp_Top_Horse": "CNL.NS",
         "Top_Stocks": [
           {
             "Ticker": "CNL.NS",
@@ -3262,6 +3392,11 @@
         "is_52w_high": false,
         "Combined_Score": 59.5,
         "Top5": false,
+        "Disp_Density_Z": 1.72,
+        "Disp_Quality_Pct": 72.3,
+        "Disp_Thrust_Pct": 7.7,
+        "Disp_Conviction": 66.7,
+        "Disp_Top_Horse": "GREAVESCOT.NS",
         "Top_Stocks": [
           {
             "Ticker": "GREAVESCOT.NS",
@@ -3326,6 +3461,11 @@
         "is_52w_high": false,
         "Combined_Score": 59.0,
         "Top5": false,
+        "Disp_Density_Z": 1.97,
+        "Disp_Quality_Pct": 73.9,
+        "Disp_Thrust_Pct": 11.1,
+        "Disp_Conviction": 70.64,
+        "Disp_Top_Horse": "ITDC.NS",
         "Top_Stocks": [
           {
             "Ticker": "ITDC.NS",
@@ -3390,6 +3530,11 @@
         "is_52w_high": false,
         "Combined_Score": 56.8,
         "Top5": false,
+        "Disp_Density_Z": 0.52,
+        "Disp_Quality_Pct": 75.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 53.96,
+        "Disp_Top_Horse": "GANDHAR.NS",
         "Top_Stocks": [
           {
             "Ticker": "GANDHAR.NS",
@@ -3454,6 +3599,11 @@
         "is_52w_high": false,
         "Combined_Score": 56.2,
         "Top5": false,
+        "Disp_Density_Z": 0.17,
+        "Disp_Quality_Pct": 75.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 37.92,
+        "Disp_Top_Horse": "GICRE.NS",
         "Top_Stocks": [
           {
             "Ticker": "STARHEALTH.NS",
@@ -3518,6 +3668,11 @@
         "is_52w_high": false,
         "Combined_Score": 55.7,
         "Top5": false,
+        "Disp_Density_Z": 1.92,
+        "Disp_Quality_Pct": 75.9,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 69.23,
+        "Disp_Top_Horse": "GHCLTEXTIL.NS",
         "Top_Stocks": [
           {
             "Ticker": "GHCLTEXTIL.NS",
@@ -3582,6 +3737,11 @@
         "is_52w_high": false,
         "Combined_Score": 54.6,
         "Top5": false,
+        "Disp_Density_Z": 3.77,
+        "Disp_Quality_Pct": 73.7,
+        "Disp_Thrust_Pct": 7.3,
+        "Disp_Conviction": 73.24,
+        "Disp_Top_Horse": "PHOENIXLTD.NS",
         "Top_Stocks": [
           {
             "Ticker": "LODHA.NS",
@@ -3646,6 +3806,11 @@
         "is_52w_high": false,
         "Combined_Score": 54.1,
         "Top5": false,
+        "Disp_Density_Z": 0.39,
+        "Disp_Quality_Pct": 80.0,
+        "Disp_Thrust_Pct": 33.3,
+        "Disp_Conviction": 61.01,
+        "Disp_Top_Horse": "HAPPYFORGE.NS",
         "Top_Stocks": [
           {
             "Ticker": "HAPPYFORGE.NS",
@@ -3710,6 +3875,11 @@
         "is_52w_high": false,
         "Combined_Score": 53.0,
         "Top5": false,
+        "Disp_Density_Z": 0.56,
+        "Disp_Quality_Pct": 78.9,
+        "Disp_Thrust_Pct": 22.2,
+        "Disp_Conviction": 62.78,
+        "Disp_Top_Horse": "AUBANK.NS",
         "Top_Stocks": [
           {
             "Ticker": "ESAFSFB.NS",
@@ -3774,6 +3944,11 @@
         "is_52w_high": false,
         "Combined_Score": 51.9,
         "Top5": false,
+        "Disp_Density_Z": 0.58,
+        "Disp_Quality_Pct": 73.8,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 56.64,
+        "Disp_Top_Horse": "CYIENTDLM.NS",
         "Top_Stocks": [
           {
             "Ticker": "ASTRAMICRO.NS",
@@ -3838,6 +4013,11 @@
         "is_52w_high": false,
         "Combined_Score": 51.4,
         "Top5": false,
+        "Disp_Density_Z": 2.24,
+        "Disp_Quality_Pct": 73.7,
+        "Disp_Thrust_Pct": 5.3,
+        "Disp_Conviction": 69.73,
+        "Disp_Top_Horse": "STOVEKRAFT.NS",
         "Top_Stocks": [
           {
             "Ticker": "STOVEKRAFT.NS",
@@ -3902,6 +4082,11 @@
         "is_52w_high": false,
         "Combined_Score": 50.8,
         "Top5": false,
+        "Disp_Density_Z": 0.37,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 46.52,
+        "Disp_Top_Horse": "LICI.NS",
         "Top_Stocks": [
           {
             "Ticker": "LICI.NS",
@@ -3966,6 +4151,11 @@
         "is_52w_high": false,
         "Combined_Score": 50.3,
         "Top5": false,
+        "Disp_Density_Z": 0.97,
+        "Disp_Quality_Pct": 71.7,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 60.26,
+        "Disp_Top_Horse": "IFGLEXPOR.NS",
         "Top_Stocks": [
           {
             "Ticker": "RPEL.NS",
@@ -4030,6 +4220,11 @@
         "is_52w_high": false,
         "Combined_Score": 49.7,
         "Top5": false,
+        "Disp_Density_Z": 1.53,
+        "Disp_Quality_Pct": 74.2,
+        "Disp_Thrust_Pct": 8.3,
+        "Disp_Conviction": 66.23,
+        "Disp_Top_Horse": "PNBHOUSING.NS",
         "Top_Stocks": [
           {
             "Ticker": "AAVAS.NS",
@@ -4094,6 +4289,11 @@
         "is_52w_high": false,
         "Combined_Score": 49.2,
         "Top5": false,
+        "Disp_Density_Z": 1.39,
+        "Disp_Quality_Pct": 73.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 61.71,
+        "Disp_Top_Horse": "DIAMONDYD.BO",
         "Top_Stocks": [
           {
             "Ticker": "DIAMONDYD.BO",
@@ -4158,6 +4358,11 @@
         "is_52w_high": false,
         "Combined_Score": 48.6,
         "Top5": false,
+        "Disp_Density_Z": 2.72,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 67.27,
+        "Disp_Top_Horse": "NAUKRI.NS",
         "Top_Stocks": [
           {
             "Ticker": "NAUKRI.NS",
@@ -4222,6 +4427,11 @@
         "is_52w_high": false,
         "Combined_Score": 48.1,
         "Top5": false,
+        "Disp_Density_Z": 2.14,
+        "Disp_Quality_Pct": 64.8,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 66.0,
+        "Disp_Top_Horse": "NINSYS.NS",
         "Top_Stocks": [
           {
             "Ticker": "NINSYS.NS",
@@ -4286,6 +4496,11 @@
         "is_52w_high": false,
         "Combined_Score": 47.0,
         "Top5": false,
+        "Disp_Density_Z": 0.69,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 53.17,
+        "Disp_Top_Horse": "RELAXO.NS",
         "Top_Stocks": [
           {
             "Ticker": "RELAXO.NS",
@@ -4350,6 +4565,11 @@
         "is_52w_high": false,
         "Combined_Score": 46.5,
         "Top5": false,
+        "Disp_Density_Z": 1.8,
+        "Disp_Quality_Pct": 72.3,
+        "Disp_Thrust_Pct": 15.4,
+        "Disp_Conviction": 69.82,
+        "Disp_Top_Horse": "RADICO.NS",
         "Top_Stocks": [
           {
             "Ticker": "RADICO.NS",
@@ -4414,6 +4634,11 @@
         "is_52w_high": false,
         "Combined_Score": 45.9,
         "Top5": false,
+        "Disp_Density_Z": 0.78,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 46.19,
+        "Disp_Top_Horse": "ADOR.NS",
         "Top_Stocks": [
           {
             "Ticker": "KIRLOSIND.NS",
@@ -4478,6 +4703,11 @@
         "is_52w_high": false,
         "Combined_Score": 45.4,
         "Top5": false,
+        "Disp_Density_Z": 1.81,
+        "Disp_Quality_Pct": 75.0,
+        "Disp_Thrust_Pct": 25.0,
+        "Disp_Conviction": 68.82,
+        "Disp_Top_Horse": "DIXON.NS",
         "Top_Stocks": [
           {
             "Ticker": "DIXON.NS",
@@ -4542,6 +4772,11 @@
         "is_52w_high": false,
         "Combined_Score": 44.8,
         "Top5": false,
+        "Disp_Density_Z": 0.16,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 36.14,
+        "Disp_Top_Horse": "DYCL.NS",
         "Top_Stocks": [
           {
             "Ticker": "QUADFUTURE.NS",
@@ -4606,6 +4841,11 @@
         "is_52w_high": false,
         "Combined_Score": 44.3,
         "Top5": false,
+        "Disp_Density_Z": 0.72,
+        "Disp_Quality_Pct": 72.3,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 57.59,
+        "Disp_Top_Horse": "DELHIVERY.NS",
         "Top_Stocks": [
           {
             "Ticker": "DELHIVERY.NS",
@@ -4670,6 +4910,11 @@
         "is_52w_high": false,
         "Combined_Score": 43.8,
         "Top5": false,
+        "Disp_Density_Z": 1.14,
+        "Disp_Quality_Pct": 75.0,
+        "Disp_Thrust_Pct": 16.7,
+        "Disp_Conviction": 64.19,
+        "Disp_Top_Horse": "WSTCSTPAPR.BO",
         "Top_Stocks": [
           {
             "Ticker": "WSTCSTPAPR.BO",
@@ -4734,6 +4979,11 @@
         "is_52w_high": false,
         "Combined_Score": 43.2,
         "Top5": false,
+        "Disp_Density_Z": 1.49,
+        "Disp_Quality_Pct": 68.9,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 64.44,
+        "Disp_Top_Horse": "CEMPRO.NS",
         "Top_Stocks": [
           {
             "Ticker": "CEMPRO.NS",
@@ -4798,6 +5048,11 @@
         "is_52w_high": false,
         "Combined_Score": 42.7,
         "Top5": false,
+        "Disp_Density_Z": 0.93,
+        "Disp_Quality_Pct": 75.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 60.14,
+        "Disp_Top_Horse": "ATHERENERG.NS",
         "Top_Stocks": [
           {
             "Ticker": "ATHERENERG.NS",
@@ -4862,6 +5117,11 @@
         "is_52w_high": false,
         "Combined_Score": 42.1,
         "Top5": false,
+        "Disp_Density_Z": 1.79,
+        "Disp_Quality_Pct": 71.1,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 60.86,
+        "Disp_Top_Horse": "NH.NS",
         "Top_Stocks": [
           {
             "Ticker": "JLHL.NS",
@@ -4926,6 +5186,11 @@
         "is_52w_high": false,
         "Combined_Score": 41.6,
         "Top5": false,
+        "Disp_Density_Z": 2.28,
+        "Disp_Quality_Pct": 63.2,
+        "Disp_Thrust_Pct": 4.5,
+        "Disp_Conviction": 65.97,
+        "Disp_Top_Horse": "MANGLMCEM.NS",
         "Top_Stocks": [
           {
             "Ticker": "JKCEMENT.NS",
@@ -4990,6 +5255,11 @@
         "is_52w_high": false,
         "Combined_Score": 41.0,
         "Top5": false,
+        "Disp_Density_Z": 1.37,
+        "Disp_Quality_Pct": 76.0,
+        "Disp_Thrust_Pct": 5.0,
+        "Disp_Conviction": 66.98,
+        "Disp_Top_Horse": "INDUSINDBK.NS",
         "Top_Stocks": [
           {
             "Ticker": "DHANBANK.NS",
@@ -5054,6 +5324,11 @@
         "is_52w_high": false,
         "Combined_Score": 40.5,
         "Top5": false,
+        "Disp_Density_Z": 1.15,
+        "Disp_Quality_Pct": 73.8,
+        "Disp_Thrust_Pct": 5.0,
+        "Disp_Conviction": 65.66,
+        "Disp_Top_Horse": "VENUSPIPES.NS",
         "Top_Stocks": [
           {
             "Ticker": "VENUSPIPES.NS",
@@ -5118,6 +5393,11 @@
         "is_52w_high": false,
         "Combined_Score": 39.9,
         "Top5": false,
+        "Disp_Density_Z": 1.25,
+        "Disp_Quality_Pct": 77.5,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 63.06,
+        "Disp_Top_Horse": "NXST.BO",
         "Top_Stocks": [
           {
             "Ticker": "NXST.BO",
@@ -5182,6 +5462,11 @@
         "is_52w_high": false,
         "Combined_Score": 39.4,
         "Top5": false,
+        "Disp_Density_Z": 0.0,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 29.21,
+        "Disp_Top_Horse": "ATGL.NS",
         "Top_Stocks": [
           {
             "Ticker": "IRMENERGY.NS",
@@ -5246,6 +5531,11 @@
         "is_52w_high": false,
         "Combined_Score": 38.9,
         "Top5": false,
+        "Disp_Density_Z": 2.17,
+        "Disp_Quality_Pct": 70.7,
+        "Disp_Thrust_Pct": 2.2,
+        "Disp_Conviction": 69.01,
+        "Disp_Top_Horse": "AETHER.NS",
         "Top_Stocks": [
           {
             "Ticker": "GEMAROMA.NS",
@@ -5310,6 +5600,11 @@
         "is_52w_high": false,
         "Combined_Score": 38.3,
         "Top5": false,
+        "Disp_Density_Z": 1.35,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 63.12,
+        "Disp_Top_Horse": "ABCAPITAL.NS",
         "Top_Stocks": [
           {
             "Ticker": "ABCAPITAL.NS",
@@ -5374,6 +5669,11 @@
         "is_52w_high": false,
         "Combined_Score": 37.8,
         "Top5": false,
+        "Disp_Density_Z": 0.8,
+        "Disp_Quality_Pct": 74.0,
+        "Disp_Thrust_Pct": 20.0,
+        "Disp_Conviction": 58.89,
+        "Disp_Top_Horse": "COSMICCRF.BO",
         "Top_Stocks": [
           {
             "Ticker": "COSMICCRF.BO",
@@ -5438,6 +5738,11 @@
         "is_52w_high": false,
         "Combined_Score": 37.2,
         "Top5": false,
+        "Disp_Density_Z": 0.46,
+        "Disp_Quality_Pct": 76.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 52.8,
+        "Disp_Top_Horse": "VADILALIND.NS",
         "Top_Stocks": [
           {
             "Ticker": "VADILALIND.NS",
@@ -5502,6 +5807,11 @@
         "is_52w_high": false,
         "Combined_Score": 36.7,
         "Top5": false,
+        "Disp_Density_Z": 0.81,
+        "Disp_Quality_Pct": 74.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 55.41,
+        "Disp_Top_Horse": "GREENPLY.NS",
         "Top_Stocks": [
           {
             "Ticker": "GREENPLY.NS",
@@ -5566,6 +5876,11 @@
         "is_52w_high": false,
         "Combined_Score": 36.1,
         "Top5": false,
+        "Disp_Density_Z": 0.54,
+        "Disp_Quality_Pct": 74.0,
+        "Disp_Thrust_Pct": 20.0,
+        "Disp_Conviction": 55.56,
+        "Disp_Top_Horse": "SHREEPUSHK.BO",
         "Top_Stocks": [
           {
             "Ticker": "SHREEPUSHK.BO",
@@ -5630,6 +5945,11 @@
         "is_52w_high": false,
         "Combined_Score": 35.6,
         "Top5": false,
+        "Disp_Density_Z": 0.22,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 42.65,
+        "Disp_Top_Horse": "COROMANDEL.NS",
         "Top_Stocks": [
           {
             "Ticker": "PARADEEP.NS",
@@ -5694,6 +6014,11 @@
         "is_52w_high": false,
         "Combined_Score": 35.1,
         "Top5": false,
+        "Disp_Density_Z": 0.04,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 33.17,
+        "Disp_Top_Horse": "ABFRL.NS",
         "Top_Stocks": [
           {
             "Ticker": "AVL.NS",
@@ -5758,6 +6083,11 @@
         "is_52w_high": false,
         "Combined_Score": 34.5,
         "Top5": false,
+        "Disp_Density_Z": 0.66,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 50.69,
+        "Disp_Top_Horse": "M&M.NS",
         "Top_Stocks": [
           {
             "Ticker": "OLECTRA.NS",
@@ -5822,6 +6152,11 @@
         "is_52w_high": false,
         "Combined_Score": 34.0,
         "Top5": false,
+        "Disp_Density_Z": 0.16,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 36.14,
+        "Disp_Top_Horse": "BALAJITELE.NS",
         "Top_Stocks": [
           {
             "Ticker": "TIPSMUSIC.NS",
@@ -5886,6 +6221,11 @@
         "is_52w_high": false,
         "Combined_Score": 33.4,
         "Top5": false,
+        "Disp_Density_Z": 1.02,
+        "Disp_Quality_Pct": 71.8,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 60.9,
+        "Disp_Top_Horse": "INDOBORAX.NS",
         "Top_Stocks": [
           {
             "Ticker": "INDOBORAX.NS",
@@ -5950,6 +6290,11 @@
         "is_52w_high": false,
         "Combined_Score": 32.9,
         "Top5": false,
+        "Disp_Density_Z": 1.58,
+        "Disp_Quality_Pct": 72.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 65.18,
+        "Disp_Top_Horse": "BLSE.NS",
         "Top_Stocks": [
           {
             "Ticker": "DIGITIDE.NS",
@@ -6014,6 +6359,11 @@
         "is_52w_high": false,
         "Combined_Score": 32.3,
         "Top5": false,
+        "Disp_Density_Z": 0.53,
+        "Disp_Quality_Pct": 73.2,
+        "Disp_Thrust_Pct": 5.3,
+        "Disp_Conviction": 56.89,
+        "Disp_Top_Horse": "DIACABS.NS",
         "Top_Stocks": [
           {
             "Ticker": "RISHABH.NS",
@@ -6078,6 +6428,11 @@
         "is_52w_high": false,
         "Combined_Score": 31.8,
         "Top5": false,
+        "Disp_Density_Z": 0.86,
+        "Disp_Quality_Pct": 68.2,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 57.91,
+        "Disp_Top_Horse": "NACLIND.NS",
         "Top_Stocks": [
           {
             "Ticker": "NACLIND.NS",
@@ -6142,6 +6497,11 @@
         "is_52w_high": false,
         "Combined_Score": 31.2,
         "Top5": false,
+        "Disp_Density_Z": 0.5,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 48.69,
+        "Disp_Top_Horse": "ECLERX.NS",
         "Top_Stocks": [
           {
             "Ticker": "ECLERX.NS",
@@ -6206,6 +6566,11 @@
         "is_52w_high": false,
         "Combined_Score": 30.7,
         "Top5": false,
+        "Disp_Density_Z": 1.01,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 55.62,
+        "Disp_Top_Horse": "FOSECOC.BO",
         "Top_Stocks": [
           {
             "Ticker": "FOSECOC.BO",
@@ -6270,6 +6635,11 @@
         "is_52w_high": false,
         "Combined_Score": 30.2,
         "Top5": false,
+        "Disp_Density_Z": 0.45,
+        "Disp_Quality_Pct": 72.9,
+        "Disp_Thrust_Pct": 6.5,
+        "Disp_Conviction": 56.75,
+        "Disp_Top_Horse": "AZAD.NS",
         "Top_Stocks": [
           {
             "Ticker": "SCHNEIDER.NS",
@@ -6334,6 +6704,11 @@
         "is_52w_high": false,
         "Combined_Score": 29.6,
         "Top5": false,
+        "Disp_Density_Z": 0.3,
+        "Disp_Quality_Pct": 60.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 35.41,
+        "Disp_Top_Horse": "BLS.NS",
         "Top_Stocks": [
           {
             "Ticker": "TBOTEK.NS",
@@ -6398,6 +6773,11 @@
         "is_52w_high": false,
         "Combined_Score": 29.1,
         "Top5": false,
+        "Disp_Density_Z": 0.15,
+        "Disp_Quality_Pct": 58.3,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 32.21,
+        "Disp_Top_Horse": "ASIANPAINT.NS",
         "Top_Stocks": [
           {
             "Ticker": "INDIGOPNTS.NS",
@@ -6462,6 +6842,11 @@
         "is_52w_high": false,
         "Combined_Score": 28.5,
         "Top5": false,
+        "Disp_Density_Z": 0.64,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 50.01,
+        "Disp_Top_Horse": "GRMOVER.BO",
         "Top_Stocks": [
           {
             "Ticker": "GRMOVER.BO",
@@ -6526,6 +6911,11 @@
         "is_52w_high": false,
         "Combined_Score": 27.7,
         "Top5": false,
+        "Disp_Density_Z": 0.7,
+        "Disp_Quality_Pct": 66.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 54.92,
+        "Disp_Top_Horse": "BLUECLOUDS.BO",
         "Top_Stocks": [
           {
             "Ticker": "ASMTEC.BO",
@@ -6590,6 +6980,11 @@
         "is_52w_high": false,
         "Combined_Score": 27.7,
         "Top5": false,
+        "Disp_Density_Z": 0.0,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 29.21,
+        "Disp_Top_Horse": "BPCL.NS",
         "Top_Stocks": [
           {
             "Ticker": "HINDPETRO.NS",
@@ -6654,6 +7049,11 @@
         "is_52w_high": false,
         "Combined_Score": 26.9,
         "Top5": false,
+        "Disp_Density_Z": 0.39,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 44.84,
+        "Disp_Top_Horse": "GMRP&UI.NS",
         "Top_Stocks": [
           {
             "Ticker": "ACMESOLAR.NS",
@@ -6718,6 +7118,11 @@
         "is_52w_high": false,
         "Combined_Score": 26.4,
         "Top5": false,
+        "Disp_Density_Z": 0.63,
+        "Disp_Quality_Pct": 77.5,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 55.63,
+        "Disp_Top_Horse": "CUBEINVIT.BO",
         "Top_Stocks": [
           {
             "Ticker": "CUBEINVIT.BO",
@@ -6782,6 +7187,11 @@
         "is_52w_high": false,
         "Combined_Score": 25.8,
         "Top5": false,
+        "Disp_Density_Z": 0.27,
+        "Disp_Quality_Pct": 60.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 35.05,
+        "Disp_Top_Horse": "HUDCO.NS",
         "Top_Stocks": [
           {
             "Ticker": "TFCILTD.NS",
@@ -6846,6 +7256,11 @@
         "is_52w_high": false,
         "Combined_Score": 25.3,
         "Top5": false,
+        "Disp_Density_Z": 0.15,
+        "Disp_Quality_Pct": 72.9,
+        "Disp_Thrust_Pct": 14.3,
+        "Disp_Conviction": 46.62,
+        "Disp_Top_Horse": "GRAVITA.NS",
         "Top_Stocks": [
           {
             "Ticker": "GRAVITA.NS",
@@ -6910,6 +7325,11 @@
         "is_52w_high": false,
         "Combined_Score": 24.7,
         "Top5": false,
+        "Disp_Density_Z": 0.06,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 33.67,
+        "Disp_Top_Horse": "AQYLON.NS",
         "Top_Stocks": [
           {
             "Ticker": "DEN.NS",
@@ -6974,6 +7394,11 @@
         "is_52w_high": false,
         "Combined_Score": 24.2,
         "Top5": false,
+        "Disp_Density_Z": 0.05,
+        "Disp_Quality_Pct": 66.7,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 37.51,
+        "Disp_Top_Horse": "PSB.BO",
         "Top_Stocks": [
           {
             "Ticker": "PSB.BO",
@@ -7038,6 +7463,11 @@
         "is_52w_high": false,
         "Combined_Score": 23.6,
         "Top5": false,
+        "Disp_Density_Z": 0.97,
+        "Disp_Quality_Pct": 73.3,
+        "Disp_Thrust_Pct": 16.7,
+        "Disp_Conviction": 60.78,
+        "Disp_Top_Horse": "GODREJIND.NS",
         "Top_Stocks": [
           {
             "Ticker": "GODREJIND.NS",
@@ -7102,6 +7532,11 @@
         "is_52w_high": false,
         "Combined_Score": 23.1,
         "Top5": false,
+        "Disp_Density_Z": 0.08,
+        "Disp_Quality_Pct": 60.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 31.3,
+        "Disp_Top_Horse": "APOLLOPIPE.NS",
         "Top_Stocks": [
           {
             "Ticker": "RMDRIP.NS",
@@ -7166,6 +7601,11 @@
         "is_52w_high": false,
         "Combined_Score": 22.6,
         "Top5": false,
+        "Disp_Density_Z": 0.33,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 44.96,
+        "Disp_Top_Horse": "ANTELOPUS.BO",
         "Top_Stocks": [
           {
             "Ticker": "OIL.NS",
@@ -7230,6 +7670,11 @@
         "is_52w_high": false,
         "Combined_Score": 22.0,
         "Top5": false,
+        "Disp_Density_Z": 0.08,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 34.3,
+        "Disp_Top_Horse": "ADANIPOWER.NS",
         "Top_Stocks": [
           {
             "Ticker": "TORNTPOWER.NS",
@@ -7294,6 +7739,11 @@
         "is_52w_high": false,
         "Combined_Score": 21.5,
         "Top5": false,
+        "Disp_Density_Z": 0.36,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 47.42,
+        "Disp_Top_Horse": "BHARTIHEXA.NS",
         "Top_Stocks": [
           {
             "Ticker": "BHARTIARTL.NS",
@@ -7358,6 +7808,11 @@
         "is_52w_high": false,
         "Combined_Score": 20.9,
         "Top5": false,
+        "Disp_Density_Z": 0.11,
+        "Disp_Quality_Pct": 70.0,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 35.01,
+        "Disp_Top_Horse": "JAIBALAJI.BO",
         "Top_Stocks": [
           {
             "Ticker": "JAIBALAJI.BO",
@@ -7422,6 +7877,11 @@
         "is_52w_high": false,
         "Combined_Score": 20.4,
         "Top5": false,
+        "Disp_Density_Z": 0.0,
+        "Disp_Quality_Pct": 48.6,
+        "Disp_Thrust_Pct": 0.0,
+        "Disp_Conviction": 22.79,
+        "Disp_Top_Horse": "AIRLTD.BO",
         "Top_Stocks": [
           {
             "Ticker": "BRRL.BO",
