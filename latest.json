@@ -1,6 +1,6 @@
 {
   "run_date": "2026-07-09",
-  "run_date_display": "09 Jul 2026, 01:38 PM GST",
+  "run_date_display": "09 Jul 2026, 02:16 PM GST",
   "status": "warning",
   "fatal_error": null,
   "warnings": [
@@ -9,7 +9,8 @@
     "Theme conviction: 55 tickers dropped for <56 weeks history.",
     "Sector RRG: 127 sub-sectors excluded for <5 qualifying constituents.",
     "Grind-to-Breakout: 26 tickers dropped for <250d history.",
-    "Weekly OHLC foundation: 86 tickers dropped for <40 weeks history."
+    "Weekly OHLC foundation: 86 tickers dropped for <40 weeks history.",
+    "Price series missing for 2 tickers (sample: ['HDFCSML250.NS', 'EBBETF0430.NS'])."
   ],
   "universe_size": 851,
   "explosive_count": 20,
