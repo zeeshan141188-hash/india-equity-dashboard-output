@@ -1,6 +1,6 @@
 {
   "run_date": "2026-07-16",
-  "run_date_display": "16 Jul 2026, 01:40 PM GST",
+  "run_date_display": "16 Jul 2026, 07:59 PM GST",
   "status": "warning",
   "fatal_error": null,
   "warnings": [
@@ -9,7 +9,7 @@
     "Sector RRG: 127 sub-sectors excluded for <5 qualifying constituents.",
     "Grind-to-Breakout: 27 tickers dropped for <250d history.",
     "Weekly OHLC foundation: 93 tickers dropped for <40 weeks history.",
-    "Price series missing for 2 tickers (sample: ['HDFCSML250.NS', 'EBBETF0430.NS'])."
+    "Price series missing for 2 tickers (sample: ['EBBETF0430.NS', 'HDFCSML250.NS'])."
   ],
   "universe_size": 850,
   "explosive_count": 29,
