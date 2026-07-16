@@ -1,6 +1,6 @@
 {
-  "run_date": "2026-07-15",
-  "run_date_display": "15 Jul 2026, 08:08 PM GST",
+  "run_date": "2026-07-16",
+  "run_date_display": "16 Jul 2026, 01:40 PM GST",
   "qa": [
     {
       "question": "What are today's top ideas?",
@@ -16,7 +16,7 @@
     },
     {
       "question": "Which stocks are showing displacement this week?",
-      "answer": "Displacement Scanner, week of 2026-07-17 (top 5 of each shown):\nTop upward displacement:\n  - CNL.NS (Trading & Distributors) — Score 0.888, Displacement Z 2.88\n  - TBZ.NS (Gems, Jewellery And Watches) — Score 0.88, Displacement Z 3.48\n  - FILATEX.NS (Other Textile Products) — Score 0.878, Displacement Z 2.78, broke ceiling_52w\n  - KABRAEXTRU.NS (Industrial Products) — Score 0.849, Displacement Z 2.49, broke ceiling_52w\n  - SIGNPOST.NS (Advertising & Media Agencies) — Score 0.84, Displacement Z 2.4\nTop downward displacement:\n  - MWL.NS (Iron & Steel Products) — Score 1.0, Displacement Z -4.42\n  - NATIONSTD.BO (Real Estate Development) — Score 0.888, Displacement Z -2.88\n  - PATANJALI.NS (Edible Oil) — Score 0.857, Displacement Z -2.57, broke floor_52w\n  - JAYTEX.BO (Textiles) — Score 0.8, Displacement Z -5.72\n  - KPITTECH.NS (Computers - Software & Consult) — Score 0.794, Displacement Z -2.2, broke floor_52w"
+      "answer": "Displacement Scanner, week of 2026-07-17 (top 5 of each shown):\nTop upward displacement:\n  - CNL.NS (Trading & Distributors) — Score 0.888, Displacement Z 2.88\n  - TBZ.NS (Gems, Jewellery And Watches) — Score 0.879, Displacement Z 3.48\n  - FILATEX.NS (Other Textile Products) — Score 0.878, Displacement Z 2.78, broke ceiling_52w\n  - KABRAEXTRU.NS (Industrial Products) — Score 0.849, Displacement Z 2.49, broke ceiling_52w\n  - SIGNPOST.NS (Advertising & Media Agencies) — Score 0.84, Displacement Z 2.4\nTop downward displacement:\n  - MWL.NS (Iron & Steel Products) — Score 1.0, Displacement Z -4.42\n  - NATIONSTD.BO (Real Estate Development) — Score 0.888, Displacement Z -2.88\n  - PATANJALI.NS (Edible Oil) — Score 0.857, Displacement Z -2.57, broke floor_52w\n  - JAYTEX.BO (Textiles) — Score 0.8, Displacement Z -5.72\n  - KPITTECH.NS (Computers - Software & Consult) — Score 0.793, Displacement Z -2.2, broke floor_52w"
     },
     {
       "question": "Which sector shows the strongest displacement conviction?",
@@ -24,7 +24,7 @@
     },
     {
       "question": "What are today's strongest sub-sector themes?",
-      "answer": "Top 5 sub-sector themes by conviction today:\n- Real Estate Development — Conviction 75.18, driven by Momentum (across 3 stocks, lead stock ELPROINTL.BO)\n- Private Sector Bank — Conviction 69.62, driven by Momentum (across 14 stocks, lead stock TMB.NS)\n- Stockbroking & Allied — Conviction 67.42, driven by Momentum (across 7 stocks, lead stock ANGELONE.NS)\n- Other Textile Products — Conviction 67.33, driven by Expansion (across 12 stocks, lead stock SPORTKING.NS)\n- Healthcare Service Provider — Conviction 66.6, driven by Expansion (across 5 stocks, lead stock THYROCARE.NS)"
+      "answer": "Top 5 sub-sector themes by conviction today:\n- Real Estate Development — Conviction 75.18, driven by Momentum (across 3 stocks, lead stock ELPROINTL.BO)\n- Private Sector Bank — Conviction 69.2, driven by Momentum (across 14 stocks, lead stock TMB.NS)\n- Stockbroking & Allied — Conviction 68.26, driven by Momentum (across 7 stocks, lead stock ANGELONE.NS)\n- Other Textile Products — Conviction 66.92, driven by Expansion (across 12 stocks, lead stock SPORTKING.NS)\n- Other Electrical Equipment — Conviction 66.49, driven by Persistence (across 9 stocks, lead stock MTARTECH.NS)"
     },
     {
       "question": "Which sub-sectors show the strongest relative strength?",
