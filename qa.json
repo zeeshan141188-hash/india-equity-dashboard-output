@@ -1,6 +1,6 @@
 {
-  "run_date": "2026-07-22",
-  "run_date_display": "22 Jul 2026, 08:17 PM GST",
+  "run_date": "2026-07-23",
+  "run_date_display": "23 Jul 2026, 12:59 PM GST",
   "qa": [
     {
       "question": "What are today's top ideas?",
@@ -16,7 +16,7 @@
     },
     {
       "question": "Which stocks are showing displacement this week?",
-      "answer": "Displacement Scanner, week of 2026-07-24 (top 5 of each shown):\nTop upward displacement:\n  - KALYANKJIL.NS (Gems, Jewellery And Watches) — Score 0.982, Displacement Z 3.82, broke ceiling_52w\n  - MPSLTD.NS (E-Learning) — Score 0.971, Displacement Z 3.71, broke ceiling_52w\n  - HUHTAMAKI.NS (Packaging) — Score 0.919, Displacement Z 3.19, broke ceiling_52w\n  - BEPL.NS (Specialty Chemicals) — Score 0.872, Displacement Z 2.72\n  - TATVA.NS (Specialty Chemicals) — Score 0.857, Displacement Z 2.57, broke ceiling_52w\nTop downward displacement:\n  - MWL.NS (Iron & Steel Products) — Score 0.971, Displacement Z -3.71\n  - PATANJALI.NS (Edible Oil) — Score 0.915, Displacement Z -3.15\n  - NATIONSTD.BO (Real Estate Development) — Score 0.864, Displacement Z -2.64\n  - FREDUN.BO (Pharmaceuticals) — Score 0.829, Displacement Z -3.88, broke floor_52w\n  - ICICIGI.NS (General Insurance) — Score 0.814, Displacement Z -2.14"
+      "answer": "Displacement Scanner, week of 2026-07-24 (top 5 of each shown):\nTop upward displacement:\n  - KALYANKJIL.NS (Gems, Jewellery And Watches) — Score 0.982, Displacement Z 3.82, broke ceiling_52w\n  - MPSLTD.NS (E-Learning) — Score 0.971, Displacement Z 3.71, broke ceiling_52w\n  - HUHTAMAKI.NS (Packaging) — Score 0.919, Displacement Z 3.19, broke ceiling_52w\n  - BEPL.NS (Specialty Chemicals) — Score 0.872, Displacement Z 2.72\n  - TATVA.NS (Specialty Chemicals) — Score 0.857, Displacement Z 2.57, broke ceiling_52w\nTop downward displacement:\n  - MWL.NS (Iron & Steel Products) — Score 0.971, Displacement Z -3.71\n  - PATANJALI.NS (Edible Oil) — Score 0.915, Displacement Z -3.15\n  - NATIONSTD.BO (Real Estate Development) — Score 0.864, Displacement Z -2.64\n  - FREDUN.BO (Pharmaceuticals) — Score 0.827, Displacement Z -3.88, broke floor_52w\n  - ICICIGI.NS (General Insurance) — Score 0.814, Displacement Z -2.14"
     },
     {
       "question": "Which sector shows the strongest displacement conviction?",
@@ -24,7 +24,7 @@
     },
     {
       "question": "What are today's strongest sub-sector themes?",
-      "answer": "Top 5 sub-sector themes by conviction today:\n- Real Estate Development — Conviction 73.18, driven by Momentum (across 3 stocks, lead stock KESAR.BO)\n- Pharmaceuticals — Conviction 71.25, driven by Expansion (across 37 stocks, lead stock VENUSREM.NS)\n- Heavy Electrical Equipment — Conviction 67.65, driven by Momentum (across 17 stocks, lead stock GVPIL.BO)\n- Auto Components & Equipments — Conviction 66.19, driven by Expansion (across 33 stocks, lead stock SANSERA.NS)\n- Other Textile Products — Conviction 64.36, driven by Momentum (across 9 stocks, lead stock NITINSPIN.NS)"
+      "answer": "Top 5 sub-sector themes by conviction today:\n- Real Estate Development — Conviction 74.14, driven by Momentum (across 3 stocks, lead stock KESAR.BO)\n- Pharmaceuticals — Conviction 71.25, driven by Expansion (across 37 stocks, lead stock VENUSREM.NS)\n- Heavy Electrical Equipment — Conviction 67.17, driven by Momentum (across 17 stocks, lead stock GVPIL.BO)\n- Auto Components & Equipments — Conviction 66.19, driven by Expansion (across 33 stocks, lead stock SANSERA.NS)\n- Other Textile Products — Conviction 65.56, driven by Momentum (across 9 stocks, lead stock NITINSPIN.NS)"
     },
     {
       "question": "Which sub-sectors show the strongest relative strength?",
