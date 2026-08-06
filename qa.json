@@ -1,6 +1,6 @@
 {
-  "run_date": "2026-08-05",
-  "run_date_display": "05 Aug 2026, 04:33 PM GST",
+  "run_date": "2026-08-06",
+  "run_date_display": "06 Aug 2026, 04:30 PM GST",
   "qa": [
     {
       "question": "What are today's top ideas?",
@@ -16,7 +16,7 @@
     },
     {
       "question": "Which stocks are showing displacement this week?",
-      "answer": "Displacement Scanner, week of 2026-08-07 (top 5 of each shown):\nTop upward displacement:\n  - ASKAUTOLTD.NS (Auto Components & Equipments) — Score 1.0, Displacement Z 4.16, broke ceiling_52w\n  - UEL.NS (Power Generation) — Score 0.94, Displacement Z 3.4, broke ceiling_52w\n  - RBA.NS (Restaurants) — Score 0.917, Displacement Z 3.88, broke ceiling_52w\n  - MPSLTD.NS (E-Learning) — Score 0.894, Displacement Z 2.94, broke ceiling_52w\n  - BLUESTONE.NS (Gems, Jewellery And Watches) — Score 0.852, Displacement Z 2.52\nTop downward displacement:\n  - TEMBO.NS (Iron & Steel Products) — Score 1.0, Displacement Z -5.07, broke floor_52w\n  - JLHL.NS (Hospital) — Score 0.983, Displacement Z -3.93, broke floor_52w\n  - POCL.NS (Diversified Metals) — Score 0.801, Displacement Z -3.24\n  - MEDPLUS.NS (Pharmacy Retail) — Score 0.722, Displacement Z -2.3\n  - SUMEETINDS.BO (Other Textile Products) — Score 0.675, Displacement Z -2.75, broke floor_52w"
+      "answer": "Displacement Scanner, week of 2026-08-07 (top 5 of each shown):\nTop upward displacement:\n  - ASKAUTOLTD.NS (Auto Components & Equipments) — Score 1.0, Displacement Z 4.16, broke ceiling_52w\n  - UEL.NS (Power Generation) — Score 0.94, Displacement Z 3.4, broke ceiling_52w\n  - RBA.NS (Restaurants) — Score 0.917, Displacement Z 3.88, broke ceiling_52w\n  - MPSLTD.NS (E-Learning) — Score 0.894, Displacement Z 2.94, broke ceiling_52w\n  - BLUESTONE.NS (Gems, Jewellery And Watches) — Score 0.852, Displacement Z 2.52\nTop downward displacement:\n  - TEMBO.NS (Iron & Steel Products) — Score 1.0, Displacement Z -5.07, broke floor_52w\n  - JLHL.NS (Hospital) — Score 0.983, Displacement Z -3.93, broke floor_52w\n  - POCL.NS (Diversified Metals) — Score 0.8, Displacement Z -3.24\n  - MEDPLUS.NS (Pharmacy Retail) — Score 0.721, Displacement Z -2.3\n  - SUMEETINDS.BO (Other Textile Products) — Score 0.675, Displacement Z -2.75, broke floor_52w"
     },
     {
       "question": "Which sector shows the strongest displacement conviction?",
@@ -24,7 +24,7 @@
     },
     {
       "question": "What are today's strongest sub-sector themes?",
-      "answer": "Top 5 sub-sector themes by conviction today:\n- Gems, Jewellery And Watches — Conviction 76.53, driven by Momentum (across 5 stocks, lead stock THANGAMAYL.NS)\n- Other Bank — Conviction 75.28, driven by Momentum (across 5 stocks, lead stock EQUITASBNK.NS)\n- Real Estate Development — Conviction 74.43, driven by Momentum (across 3 stocks, lead stock ELPROINTL.BO)\n- Private Sector Bank — Conviction 71.65, driven by DQ (across 10 stocks, lead stock J&KBANK.BO)\n- Other Electrical Equipment — Conviction 70.23, driven by Momentum (across 7 stocks, lead stock MTARTECH.NS)"
+      "answer": "Top 5 sub-sector themes by conviction today:\n- Real Estate Development — Conviction 74.86, driven by Momentum (across 3 stocks, lead stock ELPROINTL.BO)\n- Other Bank — Conviction 74.84, driven by Momentum (across 5 stocks, lead stock EQUITASBNK.NS)\n- Gems, Jewellery And Watches — Conviction 74.8, driven by Momentum (across 5 stocks, lead stock THANGAMAYL.NS)\n- Private Sector Bank — Conviction 71.65, driven by DQ (across 10 stocks, lead stock J&KBANK.BO)\n- Other Electrical Equipment — Conviction 69.8, driven by Momentum (across 7 stocks, lead stock MTARTECH.NS)"
     },
     {
       "question": "Which sub-sectors show the strongest relative strength?",
