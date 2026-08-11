@@ -1,11 +1,10 @@
 {
-  "run_date": "2026-08-10",
-  "run_date_display": "10 Aug 2026, 03:39 PM GST",
+  "run_date": "2026-08-11",
+  "run_date_display": "11 Aug 2026, 03:25 PM GST",
   "status": "warning",
   "fatal_error": null,
   "warnings": [
     "1 tickers had no data after two passes (sample: ['VISHAL.NS']).",
-    "40 tickers had no data after two passes (sample: ['SANGHIIND.NS', 'SHREMINVIT.NS', 'MBECL.NS', 'VIVIANA-SM.NS', 'KODYTECH.NS', 'MIRCELECTR.NS', 'AIMTRON.NS', 'NDRINVIT-BL.NS', 'KARNIKA.NS', 'GSPL.NS']).",
     "Displacement scanner: 3 tickers dropped for <40 weeks history.",
     "Theme conviction: 57 tickers dropped for <56 weeks history.",
     "Sector RRG: 127 sub-sectors excluded for <5 qualifying constituents.",
