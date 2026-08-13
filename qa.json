@@ -1,6 +1,6 @@
 {
-  "run_date": "2026-08-12",
-  "run_date_display": "12 Aug 2026, 03:30 PM GST",
+  "run_date": "2026-08-13",
+  "run_date_display": "13 Aug 2026, 03:24 PM GST",
   "qa": [
     {
       "question": "What are today's top ideas?",
@@ -16,7 +16,7 @@
     },
     {
       "question": "Which stocks are showing displacement this week?",
-      "answer": "Displacement Scanner, week of 2026-08-14 (top 5 of each shown):\nTop upward displacement:\n  - UEL.NS (Power Generation) — Score 0.987, Displacement Z 3.87\n  - EMIL.NS (Diversified Retail) — Score 0.938, Displacement Z 3.38\n  - VARROC.NS (Auto Components & Equipments) — Score 0.924, Displacement Z 3.24\n  - ASKAUTOLTD.NS (Auto Components & Equipments) — Score 0.916, Displacement Z 3.16\n  - KOLTEPATIL.NS (Residential, Commercial Projec) — Score 0.895, Displacement Z 2.95, broke ceiling_52w\nTop downward displacement:\n  - SUMEETINDS.BO (Other Textile Products) — Score 0.872, Displacement Z -2.72\n  - GODREJCP.NS (Personal Care) — Score 0.757, Displacement Z -2.36, broke floor_52w\n  - KLBRENG-B.BO (Industrial Machinery & Supplie) — Score 0.688, Displacement Z -2.88\n  - NATIONSTD.BO (Real Estate Development) — Score 0.678, Displacement Z -1.68\n  - INDOTHAI.BO (Stockbroking & Allied) — Score 0.64, Displacement Z -2.4"
+      "answer": "Displacement Scanner, week of 2026-08-14 (top 5 of each shown):\nTop upward displacement:\n  - UEL.NS (Power Generation) — Score 0.987, Displacement Z 3.87\n  - EMIL.NS (Diversified Retail) — Score 0.938, Displacement Z 3.38\n  - VARROC.NS (Auto Components & Equipments) — Score 0.924, Displacement Z 3.24\n  - ASKAUTOLTD.NS (Auto Components & Equipments) — Score 0.916, Displacement Z 3.16\n  - KOLTEPATIL.NS (Residential, Commercial Projec) — Score 0.895, Displacement Z 2.95, broke ceiling_52w\nTop downward displacement:\n  - SUMEETINDS.BO (Other Textile Products) — Score 0.872, Displacement Z -2.72\n  - GODREJCP.NS (Personal Care) — Score 0.751, Displacement Z -2.36, broke floor_52w\n  - KLBRENG-B.BO (Industrial Machinery & Supplie) — Score 0.688, Displacement Z -2.88\n  - NATIONSTD.BO (Real Estate Development) — Score 0.677, Displacement Z -1.68\n  - INDOTHAI.BO (Stockbroking & Allied) — Score 0.64, Displacement Z -2.4"
     },
     {
       "question": "Which sector shows the strongest displacement conviction?",
@@ -24,7 +24,7 @@
     },
     {
       "question": "What are today's strongest sub-sector themes?",
-      "answer": "Top 5 sub-sector themes by conviction today:\n- Private Sector Bank — Conviction 77.93, driven by Momentum (across 12 stocks, lead stock J&KBANK.BO)\n- Other Bank — Conviction 70.86, driven by DQ (across 4 stocks, lead stock EQUITASBNK.NS)\n- Road Assets-Toll, Annuity, Hyb — Conviction 70.45, driven by Expansion (across 4 stocks, lead stock CUBEINVIT.BO)\n- Microfinance Institutions — Conviction 69.84, driven by Momentum (across 4 stocks, lead stock SATIN.NS)\n- Industrial Minerals — Conviction 68.5, driven by Momentum (across 3 stocks, lead stock LLOYDSME.NS)"
+      "answer": "Top 5 sub-sector themes by conviction today:\n- Private Sector Bank — Conviction 77.48, driven by Momentum (across 12 stocks, lead stock J&KBANK.BO)\n- Road Assets-Toll, Annuity, Hyb — Conviction 70.45, driven by Expansion (across 4 stocks, lead stock CUBEINVIT.BO)\n- Other Bank — Conviction 70.41, driven by DQ (across 4 stocks, lead stock EQUITASBNK.NS)\n- Microfinance Institutions — Conviction 70.29, driven by Momentum (across 4 stocks, lead stock SATIN.NS)\n- Industrial Minerals — Conviction 68.05, driven by Momentum (across 3 stocks, lead stock LLOYDSME.NS)"
     },
     {
       "question": "Which sub-sectors show the strongest relative strength?",
