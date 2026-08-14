@@ -1,6 +1,6 @@
 {
-  "run_date": "2026-08-14",
-  "run_date_display": "14 Aug 2026, 03:27 PM GST",
+  "run_date": "2026-08-15",
+  "run_date_display": "15 Aug 2026, 01:10 AM GST",
   "qa": [
     {
       "question": "What are today's top ideas?",
@@ -16,7 +16,7 @@
     },
     {
       "question": "Which stocks are showing displacement this week?",
-      "answer": "Displacement Scanner, week of 2026-08-14 (top 5 of each shown):\nTop upward displacement:\n  - RBA.NS (Restaurants) — Score 0.984, Displacement Z 4.4\n  - TI.BO (Breweries & Distilleries) — Score 0.981, Displacement Z 3.81, broke ceiling_52w\n  - MOREPENLAB.NS (Pharmaceuticals) — Score 0.956, Displacement Z 4.04\n  - GALAXYSURF.NS (Specialty Chemicals) — Score 0.946, Displacement Z 3.46, broke ceiling_52w\n  - VARROC.NS (Auto Components & Equipments) — Score 0.941, Displacement Z 3.41\nTop downward displacement:\n  - TEMBO.NS (Iron & Steel Products) — Score 1.0, Displacement Z -4.09\n  - RHETAN.NS (Iron & Steel Products) — Score 0.929, Displacement Z -3.36, broke floor_52w\n  - SUMEETINDS.BO (Other Textile Products) — Score 0.872, Displacement Z -2.72\n  - GODREJCP.NS (Personal Care) — Score 0.778, Displacement Z -2.0, broke floor_52w\n  - KLBRENG-B.BO (Industrial Machinery & Supplie) — Score 0.7, Displacement Z -3.0"
+      "answer": "Displacement Scanner, week of 2026-08-14 (top 5 of each shown):\nTop upward displacement:\n  - RBA.NS (Restaurants) — Score 0.983, Displacement Z 4.4\n  - TI.BO (Breweries & Distilleries) — Score 0.981, Displacement Z 3.81, broke ceiling_52w\n  - MOREPENLAB.NS (Pharmaceuticals) — Score 0.956, Displacement Z 4.04\n  - GALAXYSURF.NS (Specialty Chemicals) — Score 0.946, Displacement Z 3.46, broke ceiling_52w\n  - VARROC.NS (Auto Components & Equipments) — Score 0.941, Displacement Z 3.41\nTop downward displacement:\n  - TEMBO.NS (Iron & Steel Products) — Score 1.0, Displacement Z -4.09\n  - RHETAN.NS (Iron & Steel Products) — Score 0.929, Displacement Z -3.36, broke floor_52w\n  - SUMEETINDS.BO (Other Textile Products) — Score 0.872, Displacement Z -2.72\n  - GODREJCP.NS (Personal Care) — Score 0.776, Displacement Z -2.0, broke floor_52w\n  - KLBRENG-B.BO (Industrial Machinery & Supplie) — Score 0.7, Displacement Z -3.0"
     },
     {
       "question": "Which sector shows the strongest displacement conviction?",
@@ -24,7 +24,7 @@
     },
     {
       "question": "What are today's strongest sub-sector themes?",
-      "answer": "Top 5 sub-sector themes by conviction today:\n- Private Sector Bank — Conviction 77.11, driven by Momentum (across 13 stocks, lead stock J&KBANK.BO)\n- Road Assets-Toll, Annuity, Hyb — Conviction 69.35, driven by Expansion (across 4 stocks, lead stock CUBEINVIT.BO)\n- Microfinance Institutions — Conviction 68.55, driven by Momentum (across 4 stocks, lead stock SATIN.NS)\n- Industrial Minerals — Conviction 67.88, driven by Momentum (across 3 stocks, lead stock LLOYDSME.NS)\n- Other Textile Products — Conviction 64.79, driven by Expansion (across 13 stocks, lead stock SPORTKING.NS)"
+      "answer": "Top 5 sub-sector themes by conviction today:\n- Private Sector Bank — Conviction 77.58, driven by Momentum (across 13 stocks, lead stock J&KBANK.BO)\n- Microfinance Institutions — Conviction 70.43, driven by Momentum (across 4 stocks, lead stock SATIN.NS)\n- Industrial Minerals — Conviction 69.76, driven by Momentum (across 3 stocks, lead stock LLOYDSME.NS)\n- Road Assets-Toll, Annuity, Hyb — Conviction 68.88, driven by Expansion (across 4 stocks, lead stock CUBEINVIT.BO)\n- Explosives — Conviction 67.23, driven by Persistence (across 3 stocks, lead stock SOLARINDS.NS)"
     },
     {
       "question": "Which sub-sectors show the strongest relative strength?",
