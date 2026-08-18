@@ -1,10 +1,9 @@
 {
-  "run_date": "2026-08-17",
-  "run_date_display": "17 Aug 2026, 03:02 PM GST",
+  "run_date": "2026-08-18",
+  "run_date_display": "18 Aug 2026, 02:58 PM GST",
   "status": "warning",
   "fatal_error": null,
   "warnings": [
-    "7 tickers had no data after two passes (sample: ['JBCHEPHARM.NS', 'ACCENTMIC.NS', 'NEPHROCARE.NS', 'ZTECH.NS', 'SANGHIIND.NS', 'INDOSOLAR.NS', 'SARTELE.NS']).",
     "Displacement scanner: 1 tickers dropped for <40 weeks history.",
     "Displacement scanner: 2 tickers dropped for weekly gaps >15d (likely halted/suspended).",
     "Theme conviction: 18 tickers dropped for <56 weeks history.",
@@ -12,7 +11,7 @@
     "Grind-to-Breakout: 17 tickers dropped for <250d history.",
     "Weekly OHLC foundation: 90 tickers dropped for <40 weeks history.",
     "Weekly OHLC foundation: 2 tickers dropped for weekly gaps >15d.",
-    "Price series missing for 12 tickers (sample: ['THEJO.NS', 'BECTORFOOD.NS', 'CARTRADE.NS', 'TEXINFRA.NS', 'IVALUE.NS'])."
+    "Price series missing for 12 tickers (sample: ['IVALUE.NS', 'THELEELA.NS', 'CARTRADE.NS', 'NPST.NS', 'AMAL.BO'])."
   ],
   "universe_size": 396,
   "explosive_count": 24,
