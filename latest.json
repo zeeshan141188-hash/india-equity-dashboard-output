@@ -1,10 +1,9 @@
 {
-  "run_date": "2026-09-24",
-  "run_date_display": "24 Sep 2026, 07:29 PM GST",
+  "run_date": "2026-09-25",
+  "run_date_display": "25 Sep 2026, 07:29 PM GST",
   "status": "warning",
   "fatal_error": null,
   "warnings": [
-    "3 tickers had no data after two passes (sample: ['JBCHEPHARM.NS', 'SANGHIIND.NS', 'INDOSOLAR.NS']).",
     "Displacement scanner: 1 tickers dropped for <40 weeks history.",
     "Displacement scanner: 2 tickers dropped for weekly gaps >15d (likely halted/suspended).",
     "Theme conviction: 20 tickers dropped for <56 weeks history.",
@@ -12,7 +11,7 @@
     "Grind-to-Breakout: 17 tickers dropped for <250d history.",
     "Weekly OHLC foundation: 84 tickers dropped for <40 weeks history.",
     "Weekly OHLC foundation: 2 tickers dropped for weekly gaps >15d.",
-    "Price series missing for 6 tickers (sample: ['VRLLOG.NS', 'BHARATSE.BO', 'JINDWORLD.NS', 'AMAL.BO', 'PICCADIL.BO'])."
+    "Price series missing for 6 tickers (sample: ['PICCADIL.BO', 'JINDWORLD.NS', 'BHARATSE.BO', 'BECTORFOOD.NS', 'AMAL.BO'])."
   ],
   "universe_size": 402,
   "explosive_count": 12,
@@ -5709,7 +5708,7 @@
         "total_weeks": 10,
         "val13w_rising": true,
         "r2_ok": true,
-        "reversal_disp_z": 1.96,
+        "reversal_disp_z": 1.94,
         "reversal_vol_z": 1.91,
         "second_campaign": true,
         "s_structure": 15,
