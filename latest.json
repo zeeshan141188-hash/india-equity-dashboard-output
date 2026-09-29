@@ -1,17 +1,16 @@
 {
-  "run_date": "2026-09-28",
-  "run_date_display": "28 Sep 2026, 10:17 PM GST",
+  "run_date": "2026-09-29",
+  "run_date_display": "29 Sep 2026, 08:37 PM GST",
   "status": "warning",
   "fatal_error": null,
   "warnings": [
-    "3 tickers had no data after two passes (sample: ['JBCHEPHARM.NS', 'SANGHIIND.NS', 'INDOSOLAR.NS']).",
     "Displacement scanner: 2 tickers dropped for weekly gaps >15d (likely halted/suspended).",
     "Theme conviction: 21 tickers dropped for <56 weeks history.",
     "Sector RRG: 4 sub-sectors excluded for <5 qualifying constituents.",
     "Grind-to-Breakout: 17 tickers dropped for <250d history.",
     "Weekly OHLC foundation: 83 tickers dropped for <40 weeks history.",
     "Weekly OHLC foundation: 2 tickers dropped for weekly gaps >15d.",
-    "Price series missing for 7 tickers (sample: ['BECTORFOOD.NS', 'AMAL.BO', 'PICCADIL.BO', 'JINDWORLD.NS', 'TIMETECHNO.NS'])."
+    "Price series missing for 7 tickers (sample: ['PICCADIL.BO', 'TIMETECHNO.NS', 'BHARATSE.BO', 'AMAL.BO', 'BECTORFOOD.NS'])."
   ],
   "universe_size": 402,
   "explosive_count": 10,
@@ -1157,11 +1156,11 @@
       {
         "Sub_Sector": "Aerospace & Defense",
         "Stocks": 6,
-        "Momentum": 58.8,
+        "Momentum": 52.9,
         "Persistence": 48.5,
         "Expansion": 70.6,
         "DQ": 41.2,
-        "Conviction": 53.09,
+        "Conviction": 51.32,
         "Driver": "Expansion",
         "Lead_Stock": "PARAS.NS"
       },
@@ -1177,6 +1176,17 @@
         "Lead_Stock": "THYROCARE.NS"
       },
       {
+        "Sub_Sector": "Balanced Pharma",
+        "Stocks": 8,
+        "Momentum": 58.8,
+        "Persistence": 43.5,
+        "Expansion": 88.2,
+        "DQ": 17.6,
+        "Conviction": 48.35,
+        "Driver": "Expansion",
+        "Lead_Stock": "ALIVUS.NS"
+      },
+      {
         "Sub_Sector": "Heavy Electrical Equipment",
         "Stocks": 8,
         "Momentum": 47.1,
@@ -1186,17 +1196,6 @@
         "Conviction": 46.79,
         "Driver": "Persistence",
         "Lead_Stock": "INDOTECH.NS"
-      },
-      {
-        "Sub_Sector": "Balanced Pharma",
-        "Stocks": 8,
-        "Momentum": 52.9,
-        "Persistence": 43.5,
-        "Expansion": 88.2,
-        "DQ": 17.6,
-        "Conviction": 46.59,
-        "Driver": "Expansion",
-        "Lead_Stock": "ALIVUS.NS"
       },
       {
         "Sub_Sector": "Midcap NBFC",
